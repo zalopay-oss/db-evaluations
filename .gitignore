@@ -1,0 +1,11 @@
+.idea
+*.log
+*.iml
+*.classpath
+*.factorypath
+*.settings
+*.project
+.vscode
+*.jar
+.DS_Store
+*.versionsBackup
