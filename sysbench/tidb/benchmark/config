@@ -1,0 +1,9 @@
+db-driver=mysql
+mysql-host=localhost
+mysql-port=4001
+mysql-user=mybenchmark
+mysql-password=abcxyz
+mysql-db=sbtest
+time=10
+threads=64
+report-interval=10

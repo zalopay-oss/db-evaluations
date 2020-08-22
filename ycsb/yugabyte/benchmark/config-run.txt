@@ -1,0 +1,2 @@
+10.20.11.57:/myserver/loadtest/benchmark-ycsb-0.17.0:0,100
+10.20.11.58:/myserver/loadtest/benchmark-ycsb-0.17.0:0,100

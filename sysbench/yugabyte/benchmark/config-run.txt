@@ -1,0 +1,2 @@
+10.20.11.57:/myserver/benchmark/sysbench-yuga:0,15000000
+10.20.11.58:/myserver/benchmark/sysbench-yuga:15000000,30000000

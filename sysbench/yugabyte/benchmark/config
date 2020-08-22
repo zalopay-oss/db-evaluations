@@ -1,0 +1,9 @@
+db-driver=pgsql
+pgsql-host=10.20.11.10
+pgsql-port=5433
+pgsql-user=mybenhcmark
+pgsql-password=abcxyz
+pgsql-db=sbtest
+time=10
+threads=64
+report-interval=10

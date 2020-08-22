@@ -1,0 +1,434 @@
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+==========================================================
+||                    RUN BENCHMARK                       ||
+==========================================================\n
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 48
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 48 tps: 35.68 qps: 621.84 (r/w/o: 546.09/0.00/75.76) lat (ms,95%): 2045.74 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            5670
+        write:                           0
+        other:                           810
+        total:                           6480
+    transactions:                        405    (36.69 per sec.)
+    queries:                             6480   (587.03 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          11.0339s
+    total number of events:              405
+
+Latency (ms):
+         min:                                  678.30
+         avg:                                 1250.09
+         max:                                 4070.70
+         95th percentile:                     2082.91
+         sum:                               506287.26
+
+Threads fairness:
+    events (avg/stddev):           8.4375/2.02
+    execution time (avg/stddev):   10.5477/0.28
+
+==========================================================
+||                     RUN BENCHMARK DONE               ||
+==========================================================\n
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+==========================================================
+||                    RUN BENCHMARK                       ||
+==========================================================\n
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 48
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 48 tps: 37.98 qps: 660.50 (r/w/o: 579.83/0.00/80.66) lat (ms,95%): 2082.91 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            5992
+        write:                           0
+        other:                           856
+        total:                           6848
+    transactions:                        428    (39.26 per sec.)
+    queries:                             6848   (628.13 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          10.8989s
+    total number of events:              428
+
+Latency (ms):
+         min:                                  614.13
+         avg:                                 1175.55
+         max:                                 2466.03
+         95th percentile:                     2045.74
+         sum:                               503136.52
+
+Threads fairness:
+    events (avg/stddev):           8.9167/2.23
+    execution time (avg/stddev):   10.4820/0.24
+
+==========================================================
+||                     RUN BENCHMARK DONE               ||
+==========================================================\n
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+==========================================================
+||                    RUN BENCHMARK                       ||
+==========================================================\n
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 48
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 48 tps: 38.38 qps: 665.85 (r/w/o: 584.39/0.00/81.46) lat (ms,95%): 2120.76 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            6048
+        write:                           0
+        other:                           864
+        total:                           6912
+    transactions:                        432    (39.49 per sec.)
+    queries:                             6912   (631.85 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          10.9342s
+    total number of events:              432
+
+Latency (ms):
+         min:                                  561.31
+         avg:                                 1165.20
+         max:                                 2959.89
+         95th percentile:                     2082.91
+         sum:                               503364.82
+
+Threads fairness:
+    events (avg/stddev):           9.0000/2.38
+    execution time (avg/stddev):   10.4868/0.26
+
+==========================================================
+||                     RUN BENCHMARK DONE               ||
+==========================================================\n
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+==========================================================
+||                    RUN BENCHMARK                       ||
+==========================================================\n
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 48
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 48 tps: 36.58 qps: 637.76 (r/w/o: 559.90/0.00/77.86) lat (ms,95%): 2009.23 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            5796
+        write:                           0
+        other:                           828
+        total:                           6624
+    transactions:                        414    (37.76 per sec.)
+    queries:                             6624   (604.17 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          10.9603s
+    total number of events:              414
+
+Latency (ms):
+         min:                                  661.40
+         avg:                                 1221.80
+         max:                                 3278.72
+         95th percentile:                     2045.74
+         sum:                               505824.55
+
+Threads fairness:
+    events (avg/stddev):           8.6250/2.17
+    execution time (avg/stddev):   10.5380/0.25
+
+==========================================================
+||                     RUN BENCHMARK DONE               ||
+==========================================================\n
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+==========================================================
+||                    RUN BENCHMARK                       ||
+==========================================================\n
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 48
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 48 tps: 36.09 qps: 628.90 (r/w/o: 552.03/0.00/76.88) lat (ms,95%): 2362.72 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            5726
+        write:                           0
+        other:                           818
+        total:                           6544
+    transactions:                        409    (37.27 per sec.)
+    queries:                             6544   (596.37 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          10.9706s
+    total number of events:              409
+
+Latency (ms):
+         min:                                  646.53
+         avg:                                 1235.44
+         max:                                 5630.58
+         95th percentile:                     2362.72
+         sum:                               505294.87
+
+Threads fairness:
+    events (avg/stddev):           8.5208/2.65
+    execution time (avg/stddev):   10.5270/0.25
+
+==========================================================
+||                     RUN BENCHMARK DONE               ||
+==========================================================\n
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+==========================================================
+||                    RUN BENCHMARK                       ||
+==========================================================\n
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 48
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 48 tps: 35.97 qps: 625.74 (r/w/o: 548.99/0.00/76.74) lat (ms,95%): 2045.74 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            5712
+        write:                           0
+        other:                           816
+        total:                           6528
+    transactions:                        408    (37.23 per sec.)
+    queries:                             6528   (595.61 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          10.9569s
+    total number of events:              408
+
+Latency (ms):
+         min:                                  624.96
+         avg:                                 1231.71
+         max:                                 4174.19
+         95th percentile:                     2045.74
+         sum:                               502538.03
+
+Threads fairness:
+    events (avg/stddev):           8.5000/2.05
+    execution time (avg/stddev):   10.4695/0.28
+
+==========================================================
+||                     RUN BENCHMARK DONE               ||
+==========================================================\n
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+/etc/bashrc: line 97: PROMPT_COMMAND: readonly variable
+==========================================================
+||                     PREPARE DATA                     ||
+==========================================================\n
+sysbench 1.0.17 (using system LuaJIT 2.0.4)
+
+Dropping table 'sbtest1'...
+sysbench 1.0.17 (using system LuaJIT 2.0.4)
+
+Initializing worker threads...
+
+2020/06/10 14:43:33 [info] Creating table 'sbtest1'...
+sysbench 1.0.17 (using system LuaJIT 2.0.4)
+
+Running the test with following options:
+Number of threads: 10
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+2020/06/10 14:43:33 [info] ThreadId: 6 insert data from 60000 to 700002020/06/10 14:43:33 [info] ThreadId: 5 insert data from 50000 to 60000
+2020/06/10 14:43:33 [info] ThreadId: 1 insert data from 10000 to 200002020/06/10 14:43:33 [info] ThreadId: 3 insert data from 30000 to 40000
+2020/06/10 14:43:33 [info] ThreadId: 8 insert data from 80000 to 90000
+2020/06/10 14:43:33 [info] ThreadId: 4 insert data from 40000 to 500002020/06/10 14:43:33 [info] ThreadId: 7 insert data from 70000 to 80000
+
+2020/06/10 14:43:33 [info] ThreadId: 0 insert data from 0 to 10000
+2020/06/10 14:43:33 [info] ThreadId: 2 insert data from 20000 to 30000
+
+2020/06/10 14:43:33 [info] ThreadId: 9 insert data from 90000 to 100000
+
+2020/06/10 14:43:38 [info] ThreadId: 3 inserting ' done, within 5 seconds
+2020/06/10 14:43:38 [info] ThreadId: 4 inserting ' done, within 5 seconds
+2020/06/10 14:43:38 [info] ThreadId: 2 inserting ' done, within 5 seconds
+2020/06/10 14:43:39 [info] ThreadId: 8 inserting ' done, within 6 seconds
+2020/06/10 14:43:39 [info] ThreadId: 7 inserting ' done, within 6 seconds
+2020/06/10 14:43:39 [info] ThreadId: 0 inserting ' done, within 6 seconds
+2020/06/10 14:43:39 [info] ThreadId: 9 inserting ' done, within 6 seconds
+2020/06/10 14:43:39 [info] ThreadId: 5 inserting ' done, within 6 seconds
+2020/06/10 14:43:39 [info] ThreadId: 1 inserting ' done, within 6 seconds
+2020/06/10 14:43:39 [info] ThreadId: 6 inserting ' done, within 6 seconds
+SQL statistics:
+    queries performed:
+        read:                            0
+        write:                           200
+        other:                           0
+        total:                           200
+    transactions:                        10     (1.87 per sec.)
+    queries:                             200    (37.43 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+General statistics:
+    total time:                          5.3378s
+    total number of events:              10
+
+Latency (ms):
+         min:                                 4907.56
+         avg:                                 5200.00
+         max:                                 5336.39
+         95th percentile:                     5312.73
+         sum:                                52000.03
+
+Threads fairness:
+    events (avg/stddev):           1.0000/0.00
+    execution time (avg/stddev):   5.2000/0.12
+
+==========================================================
+||                PREPARE DATA DONE                     ||
+==========================================================\n
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+==========================================================
+||                     PREPARE DATA                     ||
+==========================================================\n
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+FATAL: `cleanup' function failed: ./lua/oltp_clean.lua:7: connection creation failed
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Initializing worker threads...
+
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+(last message repeated 4 times)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+(last message repeated 1 times)
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+(last message repeated 2 times)
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+(last message repeated 2 times)
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+FATAL: `sysbench.cmdline.call_command' function failed: /usr/share/sysbench/oltp_common.lua:83: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+(last message repeated 1 times)
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+FATAL: `sysbench.cmdline.call_command' function failed: /usr/share/sysbench/oltp_common.lua:83: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+FATAL: `sysbench.cmdline.call_command' function failed: /usr/share/sysbench/oltp_common.lua:83: connection creation failed
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+FATAL: `sysbench.cmdline.call_command' function failed: /usr/share/sysbench/oltp_common.lua:83: connection creation failed
+FATAL: `sysbench.cmdline.call_command' function failed: /usr/share/sysbench/oltp_common.lua:83: connection creation failed
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+(last message repeated 3 times)
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+(last message repeated 1 times)
+FATAL: `sysbench.cmdline.call_command' function failed: /usr/share/sysbench/oltp_common.lua:83: connection creation failed
+FATAL: `sysbench.cmdline.call_command' function failed: /usr/share/sysbench/oltp_common.lua:83: connection creation failed
+(last message repeated 4 times)
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+FATAL: `sysbench.cmdline.call_command' function failed: /usr/share/sysbench/oltp_common.lua:83: connection creation failed
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Running the test with following options:
+Number of threads: 16
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: Worker threads failed to initialize within 30 seconds!
+==========================================================
+||                PREPARE DATA DONE                     ||
+==========================================================\n
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+==========================================================
+||                     PREPARE DATA                     ||
+==========================================================\n
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+FATAL: unable to connect to MySQL server on host '10.20.11.173', port 4000, aborting...
+FATAL: error 2003: Can't connect to MySQL server on '10.20.11.173' (110)
+FATAL: `cleanup' function failed: ./lua/oltp_clean.lua:7: connection creation failed
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
+Initializing worker threads...
+
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+==========================================================
+||                     PREPARE DATA                     ||
+==========================================================\n
+sysbench 1.0.20 (using bundled LuaJIT 2.1.0-beta2)
+
