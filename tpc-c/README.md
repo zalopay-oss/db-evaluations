@@ -223,7 +223,7 @@ $ ./runDatabaseBuild.sh props.pg
 - Edit directory contain result in  **props.mysql/props.pg** file: **resultDirectory=my_result_%tY-%tm-%td_%tH%tM%tS**.
 - Use the generateReport.sh DIRECTORY script to create an HTML file with graphs. This requires R to be installed.
 ### 4. References
-http://www.tpc.org/tpc_documents_current_versions/pdf/tpc-c_v5.11.0.pdf
-https://pingcap.com/docs/dev/benchmark/benchmark-tidb-using-tpcc/
-https://sp.ts.fujitsu.com/dmsp/publications/public/benchmark_overview_tpc-c.pdf
-https://github.com/pingcap/benchmarksql
+- http://www.tpc.org/tpc_documents_current_versions/pdf/tpc-c_v5.11.0.pdf
+- https://pingcap.com/docs/dev/benchmark/benchmark-tidb-using-tpcc/
+- https://sp.ts.fujitsu.com/dmsp/publications/public/benchmark_overview_tpc-c.pdf
+- https://github.com/pingcap/benchmarksql

@@ -292,8 +292,8 @@ Note that, when running oltp script continuously, we have to remove `threads` fl
 
 ## 5. References  
 
-https://github.com/pingcap/docs/blob/master/benchmark/benchmark-tidb-using-sysbench.md
+- https://github.com/pingcap/docs/blob/master/benchmark/benchmark-tidb-using-sysbench.md
 
-https://github.com/akopytov/sysbench  
+- https://github.com/akopytov/sysbench
 
-https://mariadb.org/lua-sysbench-crash-course/
+- https://mariadb.org/lua-sysbench-crash-course/
