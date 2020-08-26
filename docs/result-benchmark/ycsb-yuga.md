@@ -32,8 +32,8 @@ See detail test plan [here](../plan_test.md)
 
 | **Component**     | **Node**       | **CPU**  | **Mem** | **Disk** |
 |-------------------|----------------|----------|---------|----------|
-| yb-master         | 10.60.41.53-55  | 32 cores | 64GB    | SSD      |
-| yb-tserver        | 10.60.41.53-55  | 32 cores | 64GB    | SSD      |
+| yb-master         | 10.40.61.53-55  | 32 cores | 64GB    | SSD      |
+| yb-tserver        | 10.40.61.53-55  | 32 cores | 64GB    | SSD      |
 | HA Proxy          | 10.20.11.10    |          |         |          |
 | Instance Sysbench | 10.20.11.57-58 | 64 cores | 64GB    | HDD      |
 

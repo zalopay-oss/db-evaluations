@@ -31,9 +31,9 @@ See detail test plan [here](../plan_test.md)
 
 | **Component**     | **Node**       | **CPU**  | **Mem** | **Disk** |
 |-------------------|----------------|----------|---------|----------|
-| TiKV              | 10.60.41.53-55  | 32 cores | 64GB    | SSD      |
-| PD                | 10.60.41.53-55  | 32 cores | 64GB    | SSD      |
-| TiDB              | 10.60.45.56-58 | 32 cores | 64GB    | HDD      |
+| TiKV              | 10.40.61.53-55  | 32 cores | 64GB    | SSD      |
+| PD                | 10.40.61.53-55  | 32 cores | 64GB    | SSD      |
+| TiDB              | 10.20.11.56-58 | 32 cores | 64GB    | HDD      |
 | HA proxy          | 10.20.11.59    | 8 cores  | 16GB    |          |
 | Instance Sysbench | 10.20.11.57-58 | 32 cores | 64GB    | HDD      |
 
