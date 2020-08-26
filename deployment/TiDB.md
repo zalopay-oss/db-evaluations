@@ -20,9 +20,9 @@ Mô hình deploy benchmark:
 ### 2.2 Cấu hình server
 Component| CPU| Memory| Disk type| Instance Number
 |--|--|--|--|--|
-TiDB|   32 core|    64 GB|  HDD|    3 (10.20.11.56-57-58)
-PD| 32 core|    64 GB|  SSD|    3 (10.20.11.56-54-55)
-TiKV|  32 core|  64 GB|   SSD|   4 (10.20.11.56-54-55-56)
+TiDB|   32vCPU|    64 GB|  HDD|    3 (10.20.11.56-57-58)
+PD| 32vCPU|    64 GB|  SSD|    3 (10.20.11.56-54-55)
+TiKV|  32vCPU|  64 GB|   SSD|   4 (10.20.11.56-54-55-56)
 
 **Lưu ý:**
 - Instance của TiDB và PD có thể được deploy chung trên 1 server.  

@@ -39,14 +39,14 @@ cockroach start \
 ### 2.2 Cấu hình server
 Component| CPU| Memory| Local Storage| Instance Number
 |--|--|--|--|--|
-YB-Master|   32 core|    64 GB|  HDD|    3 (10.20.11.56-57-58)
-YB-TServer| 32 core|    64 GB|  SSD|    4 (10.20.11.56-54-55)
+YB-Master|   32vCPU|    64 GB|  HDD|    3 (10.20.11.56-57-58)
+YB-TServer| 32vCPU|    64 GB|  SSD|    4 (10.20.11.56-54-55)
 
 #### Recommend
 |Type|Name
 |--|--|
 OS|	Linux (CentOS 7.3.1611)
-CPU|32vCPUs
+CPU|32vCPU
 RAM|2GB RAM cho mỗi vCPU
 DISK|SSD hay NVMe, 300GB - 2TB
 
