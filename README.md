@@ -1,4 +1,4 @@
-# Database re-evaluation
+# Database evaluation
 
 <div align="center">
     <img src="./images/benchmark.jpg">
