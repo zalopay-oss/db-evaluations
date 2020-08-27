@@ -37,7 +37,7 @@ Result benchmark:
 
 Blogs:
   - [NewSQL evaluation: TiDB and YugabyteDB (part 1)](https://medium.com/zalopay-tech-blog/newsql-evaluation-tidb-and-yugabytedb-part-1-b35ec0c3511d)
-  - [NewSQL evaluation: TiDB and YugabyteDB (part 1)]()
+  - [NewSQL evaluation: TiDB and YugabyteDB (part 2)]()
 ## 4. Contributors
 
 | [<img src="https://avatars1.githubusercontent.com/u/38773351?s=460&v=4" width="100px;"/><br /><sub><b>phamtai97</b></sub>](https://github.com/phamtai97) | [<img src="https://avatars0.githubusercontent.com/u/27961917?s=400&u=976e473f167949563cdf10b1706e08ca259cc552&v=4" width="100px;"/><br /><sub><b>Quyen Pham</b></sub>](https://github.com/ptq204) | [<img src="https://avatars3.githubusercontent.com/u/13825568?s=400&u=5e922e1f04d9d3d5674943014c3fe3ec95c330f7&v=4" width="100px;"/><br /><sub><b>Võ Tiến Thiều</b></sub>](https://github.com/VoxT) | [<img src="https://avatars1.githubusercontent.com/u/3270746?s=460&v=4" width="100px;"/><br /><sub><b>anhldbk</b></sub>](https://github.com/anhldbk) |
