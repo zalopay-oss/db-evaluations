@@ -36,7 +36,7 @@ Result benchmark:
   - [Detail result benchmark YugabyteDB with YCSB](./docs/result-benchmark/ycsb-yuga.md)
 
 Blogs:
-  - [Re-evaluate New SQL databases: TiDB and YugabyteDB (part 1)]()
+  - [Re-evaluate New SQL databases: TiDB and YugabyteDB (part 1)](https://medium.com/zalopay-tech-blog/newsql-evaluation-tidb-and-yugabytedb-part-1-b35ec0c3511d)
   - [Re-evaluate New SQL databases: TiDB and YugabyteDB (part 2)]()
 ## 4. Contributors
 
