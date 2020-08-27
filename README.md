@@ -4,7 +4,7 @@
     <img src="./images/benchmark.jpg">
 </div>
  
-- [Database re-evaluation](#database-re-evaluation)
+- [Database evaluation](#database-evaluation)
   - [1. Overview](#1-overview)
   - [2. Why](#2-why)
   - [3. Documents](#3-documents)
