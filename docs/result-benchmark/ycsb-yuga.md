@@ -35,7 +35,7 @@ See detail test plan [here](../plan_test.md)
 | yb-master         | 10.40.61.53-55  | 32vCPU | 64GB    | SSD      |
 | yb-tserver        | 10.40.61.53-55  | 32vCPU | 64GB    | SSD      |
 | HA Proxy          | 10.20.11.10    |          |         |          |
-| Instance Sysbench | 10.20.11.57-58 | 64vCPU | 64GB    | HDD      |
+| Instance Sysbench | 10.20.11.57-58 | 32vCPU | 64GB    | HDD      |
 
 ### 1.3 Versions
 
